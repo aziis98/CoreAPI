@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="DareAPI">
     <output-path>$PROJECT_DIR$/out/artifacts/DareAPI</output-path>
     <root id="archive" name="DareAPI.jar">
-      <element id="module-output" name="DareAPI" />
+      <element id="module-output" name="CoreAPI" />
     </root>
   </artifact>
 </component>
